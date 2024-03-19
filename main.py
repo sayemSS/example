@@ -15,3 +15,4 @@ ticket_count = int(input("টিকেট সংখ্যা দিন: "))
 
 
 print("বেকার ভাইর কাছে বাকি থাকা টাকার পরিমাণ:", calculateMoney(ticket_count))
+print('sayem')
